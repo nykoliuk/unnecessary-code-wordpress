@@ -12,7 +12,6 @@ if ( ! defined( 'ABSPATH' ) ) {
     die( 'No direct access allowed!' );
 }
 
-/*Removes RSD, XMLRPC, WLW, WP Generator, ShortLink and Comment Feed links*/
 remove_action('wp_head', 'rsd_link');
 remove_action('wp_head', 'wlwmanifest_link');
 remove_action('wp_head', 'wp_generator');
