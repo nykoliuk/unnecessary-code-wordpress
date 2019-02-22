@@ -1,2 +1,1 @@
-# unnecessary-code-wordpress
-Remove Unnecessary Code From Your WordPress Blog Header
+Remove unused tags from wp_head().
