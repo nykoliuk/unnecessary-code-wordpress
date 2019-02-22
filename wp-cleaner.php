@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: WP cleaner
-Plugin URI: Your website/blog address goes here.
 Description: Remove unused tags from wp_head().
-Version: 1.0.0
+Version: 1.0.1
 Author: Nykoliuk
-Author URI: 
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
